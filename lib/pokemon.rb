@@ -33,7 +33,7 @@ class Pokemon
       UPDATE pokemon SET hp = ? WHERE id = ?;
     SQL
     
-    db.execute(sql, )
+    db.execute(sql, [new_hp, ])
   
   
   
