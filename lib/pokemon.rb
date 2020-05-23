@@ -16,6 +16,7 @@ class Pokemon
       VALUES (?, ?);
     SQL
     
+    db.execute
   
   
   
