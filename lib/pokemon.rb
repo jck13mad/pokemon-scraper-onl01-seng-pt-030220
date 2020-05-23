@@ -1,6 +1,6 @@
 class Pokemon
   
-  attr_accessor 
+  attr_accessor :name, :type, 
   
   
   
